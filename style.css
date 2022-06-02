@@ -1,8 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #141422;
+  }
 
-<html>
-<body>
+  h1 {
+    width: 255px;
+    margin: 0 auto 10px;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 100px;
+    color: #2628ac;
+  }  
 
-    <img src="shark.jpg" alt="Синяя Акула" width="400" height="300">
+  h2 {
+    color: #a01420;
+    border-bottom: 2px solid #a01420;
+    padding-bottom: 12px;
+  }
 
-</body>
-</html>
+.back-color{
+    background-color:rgb(227, 233, 194)
+}
